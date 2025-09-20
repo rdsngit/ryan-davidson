@@ -2,8 +2,8 @@
 
 Senior Software Engineer | Ruby on Rails & React | 7+ years delivering scalable apps and APIs.
 
-GitHub: https://github.com/rdsngit
-LinkedIn: https://www.linkedin.com/in/ryan-davidson-9223a31b8
+- **GitHub**: https://github.com/rdsngit
+- **LinkedIn**: https://www.linkedin.com/in/ryan-davidson-9223a31b8
 
 ## About
 
